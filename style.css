@@ -1,0 +1,26 @@
+.nav-item .nav-link{
+    color: #6482AD;
+}
+img.profile{
+    border-radius: 50%;
+}
+h1,h2.headings{
+    font-family: serif;   
+}
+p,ul,h2.name{
+    font-family: sans-serif;
+}
+.tin-dog{
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.box{
+    background-color: #FCF8F3;
+    margin-bottom:1rem;
+}
+
+
+
